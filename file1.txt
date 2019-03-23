@@ -1,2 +1,4 @@
 commit this line
 Here i make some changes in my master branch
+Do not commit this line (probably a debug line)
+Here! I added a new feature in my new branch named branch1
