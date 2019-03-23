@@ -1,1 +1,2 @@
 created file1
+You should learn to pull changes from the central repository
